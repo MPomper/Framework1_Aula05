@@ -1,0 +1,49 @@
+*{
+    margin: 10px !important;
+    padding: 10px !important;
+}
+
+body{
+    font-style: italic, bold;
+    font-size: 15px;
+}
+
+.Container{
+    width: auto;
+    margin: 1%;
+}
+
+.DivLeft{
+    margin-left: 20% !important;
+    float: left;
+}
+
+.DivRight{
+    margin-right: 20% !important;
+    float: right;
+}
+
+.TableCss{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.TableCss th{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+.TableCss td{
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+.Linha2{
+    background-color:rgba(89, 255, 47, 0.774);
+}
+
+#ID-Unico{
+    background-color: rgba(255, 0, 0, 0.589);
+}
